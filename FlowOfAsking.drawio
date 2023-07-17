@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T04:27:42.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZnkUnpTYgiM8DkM1z0S5" version="21.3.2" type="github">
+  <diagram name="Page-1" id="Pktm7cOloWW2bJOD0Lta">
+    <mxGraphModel dx="1198" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jzJYhHAv_l02grlSd3NP-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Microservices Architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Monolithic Architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cloud Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SOLID Principle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Domain Driven Design&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Clean Architecture&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;vertical slice architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Three layer architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="310" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SDLC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Repository Pattern&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzJYhHAv_l02grlSd3NP-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Repository Pattern&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
